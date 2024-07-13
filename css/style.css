@@ -1,0 +1,47 @@
+header{
+    text-align: center;
+
+}
+.logo{
+    display: block;
+    height: 150px;
+}
+.field{
+    display: inline-block;
+    clear: both;
+    text-align: right;
+    line-height: 25px;
+    padding-right: 10px;
+    border: 2px;
+    border-radius: 5px;
+}
+.main{
+    text-align: center;
+    margin-top: 150px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.image{
+    display: inline-block;
+        
+}
+.buttonLogin{
+    text-align: left;
+    margin-top: 20px;
+}
+.checkbox1{
+    margin-top: 10px;
+    text-align: left;
+    font-size: 15px;
+}
+input{
+    border: 2px solid grey;
+    border-radius: 5px;
+}
+button{
+    border-radius: 10px;
+    border: 2px solid grey;
+    width: 100px;
+    height: 30px;
+
+}
+
